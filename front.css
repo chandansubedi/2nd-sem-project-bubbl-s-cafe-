@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.fig{
+  background-image: url(./img/bgpic/pexels-photo-260922.jpeg);
+background-size: cover;
+height: 90vh;
+background-repeat: no-repeat;
+
+}
+.cart{
+    width: 80px;
+    height: 35px;
+    background-color: deepskyblue;
+    border-radius: 7px;
+    font-size: large;
+    border: none;
+    color: black;
+
+}
